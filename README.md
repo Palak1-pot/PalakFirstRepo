@@ -1,7 +1,7 @@
 # 🌻 Hi, I’m Palak — and this is where my journey with data unfolds.
 
 Welcome to my GitHub — where curiosity meets code.
-I love exploring the world of ** Data Analytics** , experimenting with ** AI and visual storytelling**, and finding joy in every little data discovery. 
+I love exploring the world of **Data Analytics** , experimenting with **AI and visual storytelling**, and finding joy in every little data discovery. 
 
 Here you'll find:
 - ⚙️ Projects I'm building or contributing to  
