@@ -8,15 +8,12 @@ Here you'll find:
 - 🧠 Things I’ve learned while juggling data, deadlines, and dashboards  
 - 🌱 Bits of inspiration for anyone trying to grow in tech  
 
-Whether you're here to find useful code, get inspired, or just see how someone else is figuring it all out—you’re in the right place! 💻
-
----
 
 ### 🌐 Let's Connect!
 Let’s learn and grow together—one repo at a time.  
 
 **Socials:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/palakmehta1)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palakmehta1/)  
 
 ### 💻 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
